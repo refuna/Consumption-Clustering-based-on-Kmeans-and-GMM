@@ -1,1 +1,1 @@
-# consumption-clustering-based-on-Kmeans-and-GMM
+# Consumption-Clustering-based-on-Kmeans-and-GMM
